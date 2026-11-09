@@ -1,0 +1,87 @@
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    z-index: 1000;
+    font-family: 'Arial', sans-serif;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+h1{
+    margin-top: 90px;
+    padding-left: 0px;
+    font-size : 24px;
+    Color: #2c3e50 ;
+
+}
+img{
+    width : 100%;
+    max-width : 600px;
+    height : auto;
+    display : block;
+    margin : 40px auto 40 px auto;
+    border-radius : 10px ;
+    margin-bottom : 100px;
+}
+
+h2{
+    margin-top: 90px;
+    padding-left: 0px;
+    font-family: 'Arial', sans-serif;
+    font-size : 20px ;
+    Color: #2c3e50 ;
+
+}   
+
+h3{margin-top: 80px;
+    padding-left: 0px;
+    font-family: 'Arial', sans-serif;
+    Color: #2c3e50 ;
+
+}
+h1{
+     margin-top: 90px;
+    padding-left: 0px;
+    Color: #2c3e50 ;
+}
+article-box{
+    border : 2px solid black; 
+    border-radius : 12px;
+    padding : 20px ;
+    margin-bottom :30px;
+    background-color:rgb(39, 4, 73);
+}
+#about{
+    background-color : white;
+    border : 2px solid #ddd ; 
+    border-radius :12px;
+    padding : 20px ;
+    margin-bottom : 30px;
+    color:  #3498db ;
+}
+#contact link{
+    background-color : white;
+    border : 2px solid #ddd ; 
+    border-radius :12px;
+    padding : 20px ;
+    margin-bottom : 30px;
+    color :  #3498db ;
+}
+body{
+    border : 5px solid lightseagreen ;
+    margin : 20px ;
+    padding : 20px ;
+    background-color : #f4f4f4 ;
+
+}
